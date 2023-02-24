@@ -1,0 +1,5 @@
+﻿  daire alan-cevre bulma.cpp
+D:\C++ PROG\Proje1\Proje1\daire alan-cevre bulma.cpp(5,13): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+D:\C++ PROG\Proje1\Proje1\daire alan-cevre bulma.cpp(11,16): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\C++ PROG\Proje1\Proje1\daire alan-cevre bulma.cpp(12,17): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Proje1.vcxproj -> D:\C++ PROG\Proje1\x64\Debug\Proje1.exe
